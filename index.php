@@ -178,13 +178,6 @@ section.\31 {
 
     <header>
     </header>
-    <!-- <h1>Welcome to our website!</h1>
-
-    <main>
-        <section class="hero">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-        </section>
-    </main> -->
     <section class="1">
         <div class="main_div">
 
