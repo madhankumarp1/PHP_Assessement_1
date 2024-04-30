@@ -150,6 +150,27 @@
             font-family: serif;
             font-weight: bolder;
         }
+        section.\32 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    padding: 25px 0px;
+}
+section.\33 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    padding: 25px 0px;
+}
+section.\31 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    padding: 25px 0px;
+}
     </style>
 
     <?php require 'templates/navbar.php' ?>
